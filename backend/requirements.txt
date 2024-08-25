@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==3.2.9
+django-cors-headers==3.10.0
+djangorestframework==3.12.4
+optional-django==0.1.0
+pytz==2024.1
+setuptools==72.1.0
+sqlparse==0.5.1
+wheel==0.43.0
